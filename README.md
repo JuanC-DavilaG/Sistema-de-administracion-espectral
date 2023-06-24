@@ -1,0 +1,1 @@
+"# Sistema-de-administracion-espectral" 
